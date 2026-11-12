@@ -4,6 +4,8 @@ includes:
 parameters:
     level: 6
 
+    phpVersion: 80500
+
     paths:
         - app/
         - config/
